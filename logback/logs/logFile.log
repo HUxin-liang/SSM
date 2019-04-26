@@ -1,0 +1,4 @@
+2019-04-25 16:27:55.536 [main] DEBUG com.hututu.App-Hello! debug!
+2019-04-25 16:27:55.539 [main] INFO  com.hututu.App-Hello! info!
+2019-04-25 16:27:55.540 [main] WARN  com.hututu.App-Hello! warn!
+2019-04-25 16:27:55.540 [main] ERROR com.hututu.App-Hello! error!
